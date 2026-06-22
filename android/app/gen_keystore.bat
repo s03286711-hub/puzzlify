@@ -1,0 +1,1 @@
+"C:\Program Files\Android\Android Studio\jbr\bin\keytool.exe" -genkey -v -keystore upload-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload -storepass password -keypass password -dname "CN=Puzzlify, OU=Puzzlify, O=Puzzlify, L=City, ST=State, C=US"
